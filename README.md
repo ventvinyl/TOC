@@ -35,3 +35,4 @@ const int INF = 0x3f3f3f3f;
 const ll VINF = 2e18;
 const double PI = acos(-1);
 ```
+https://media.discordapp.net/attachments/1286325052089958537/1395185647400124476/IMG_0452.png?ex=68798763&is=687835e3&hm=5ee374c3adae1576a74eb1fdfa8c4c18559470d55922083a96493784ea54683b&
